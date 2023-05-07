@@ -26,7 +26,7 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 - :telescope: I’m a Junior full Stack developer (still learning) focused on FrondEnd based In Paris :telescope: 
 - :seedling: My exploring Web3, Website optimisation 
 
-- :zap: In my free time, I like to learn new things , exploring web3 innovation and running validators nodes & ofc eat 🥩 lol
+- :zap: In my free time, I like to learn new things , exploring web3 innovation and running validators nodes 
 
 - :mailbox: reach me on my linkedin <a href="https://www.linkedin.com/in/safoan-touil-0764ab1aa/">here</a> or discord [soso.zk#4856]
 
