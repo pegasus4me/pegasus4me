@@ -23,7 +23,7 @@
 I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 </h3>
 
-- :telescope: I’m a Junior full Stack developer (still learning) focused on FrondEnd based In Paris :telescope: 
+- :telescope: I’m a Junior full Stack developer focused on FrondEnd based In Paris :telescope: 
 - :seedling: My exploring Web3, Website optimisation 
 
 - :zap: In my free time, I like to learn new things , exploring web3 innovation and running validators nodes 
