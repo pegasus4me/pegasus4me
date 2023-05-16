@@ -30,5 +30,5 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 - :mailbox: reach me on my linkedin <a href="https://www.linkedin.com/in/safoan-touil-0764ab1aa/">here</a> or discord [soso.zk#4856]
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pegasus4me&theme=dark&background=9CCAF1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pegasus4me=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=pegasus4me=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
