@@ -10,13 +10,7 @@
   </a>
 </div>
 <h1 align="center">
-                      __                                     
-                   [  |                                    
- _   _   __  .---.  | |  .---.   .--.   _ .--..--.  .---.  
-[ \ [ \ [  ]/ /__\\ | | / /'`\]/ .'`\ \[ `.-. .-. |/ /__\\ 
- \ \/\ \/ / | \__., | | | \__. | \__. | | | | | | || \__., 
-  \__/\__/   '.__.'[___]'.___.' '.__.' [___||__||__]'.__.' 
-                                                           
+  WELCOME
 </h1>
 
 <div align="center">
@@ -24,7 +18,7 @@
 </div>
 
 <h3 align="center">
-I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+I am a Junior Full Stack/web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 </h3>
 
 - :telescope: I’m a Junior full Stack developer focused on FrondEnd based In Paris :telescope: 
