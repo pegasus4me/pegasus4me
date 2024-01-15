@@ -19,9 +19,7 @@ I am a Full Stack/web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: I’m a full Stack web3 developer based In Paris :telescope: 
 - :seedling: explore data avalaibility and modularity
-- 
 - :zap: In my free time, I like to learn new things , exploring blockchain innovations and running validators nodes 
-
 - :mailbox: reach me on my discord [soso.zk#4856]
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pegasus4me&theme=dark&background=FFFFF)](https://git.io/streak-stats)
