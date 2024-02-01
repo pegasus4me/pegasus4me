@@ -14,7 +14,7 @@
 </h1>
 
 <h3 align="center">
-I am a Full Stack/web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+Infinite growth
 </h3>
 
 - :telescope: I’m a full Stack web3 developer based In Paris :telescope: 
