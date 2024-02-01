@@ -10,11 +10,11 @@
   </a>
 </div>
 <h1 align="center">
-  WELCOME
+  WELCOME ANON
 </h1>
 
 <h3 align="center">
-Infinite growth
+"everyday is a new opportunity to do better than yesterday"
 </h3>
 
 - :telescope: I’m a full Stack web3 developer based In Paris :telescope: 
