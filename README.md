@@ -1,6 +1,6 @@
 
 <h1 align="center">
-pragmatic by design. optimistic by nature
+pragmatic by design optimistic by nature
   
 </h1>
 
